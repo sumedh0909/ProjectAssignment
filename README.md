@@ -2,19 +2,19 @@
 
 Maven Project is created for completing the project assignment
 
-Rest Assured Liabrary is used with JUNIT 5 to test apis 
-https://jsonplaceholder.typicode.com
-GET -/posts
-GET -/posts/ {id}
-GET -/posts/ {id} /comments
-GET -/comments?postId= {id}
-POST -/posts
-PUT -/posts/ {id}
-PATCH -/posts/ {id}
-DELETE -/posts/ {id}
+Rest Assured Liabrary is used with JUNIT 5 to test apis <br>
+Base URL https://jsonplaceholder.typicode.com <br>
+GET -/posts <br>
+GET -/posts/ {id} <br>
+GET -/posts/ {id} /comments <br>
+GET -/comments?postId= {id} <br>
+POST -/posts <br>
+PUT -/posts/ {id} <br>
+PATCH -/posts/ {id} <br>
+DELETE -/posts/ {id} <br>
 
-To Run the code please execute command --> mvn clean test site.
+To Run the code please execute command --> mvn clean test site. <br>
 
-Tests are available in src/test/java/apiTest
+Tests are available in src/test/java/apiTest <br>
 
 
